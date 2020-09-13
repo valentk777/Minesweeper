@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="GameBoard.cpp" />
+    <ClCompile Include="LevelSelection.cpp" />
     <ClCompile Include="Minesweeper.cpp" />
     <ClCompile Include="PlayerBoard.cpp" />
     <ClCompile Include="PlayerMoves.cpp" />
@@ -147,6 +148,7 @@
   <ItemGroup>
     <ClInclude Include="board.h" />
     <ClInclude Include="gameBoard.h" />
+    <ClInclude Include="levelSelection.h" />
     <ClInclude Include="playerBoard.h" />
     <ClInclude Include="playerMoves.h" />
     <ClInclude Include="stdafx.h" />

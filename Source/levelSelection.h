@@ -1,0 +1,1 @@
+extern std::pair<int, int> selectLevelOrExit();
